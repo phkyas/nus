@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+	body{ 
+		font-size:14px; 
+		line-height:22px; 
+		font-family: 'PT Sans', sans-serif;
+		color:#111111;
+	}
+	/*font-family: 'Marcellus SC', serif;*/
+	
+	h1, h2, h3, h4{ font-family: 'Marcellus SC', serif; }
+	h1{ font-size:34px; }
+	h3{ font-size:24px; }
