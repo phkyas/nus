@@ -421,6 +421,94 @@
 	#rsvpForm .required.error{ border-color:#F00 !important; }
 
 
+    
+    
+    /*-- contact --*/
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p{ margin-bottom:15px; }
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p.contact-name{ margin-bottom:20px; width:47.5%; height:30px; float:left; }
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p.contact-email{ margin-bottom:20px; width:47.5%; height:30px; float:right; }
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p.contact-phone{ margin-bottom:20px; width:47.5%; height:30px; float:left; }
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p.contact-guests{ margin-bottom:20px; width:47.5%; height:30px; float:right; }
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p.contact-comment{ margin-bottom:20px; width:100%; height:auto; float:right; }
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p:last-child { margin-bottom:0px; }
+	
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p input{ 
+		width:100%; 
+		height:30px; 
+		padding:0px; 
+		padding-left:10px; 
+		padding-right:10px; 
+		font-size:12px; 
+		border-color:#dfdede;
+		box-shadow: 0px 0px 4px #E4E4E4;
+	}
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p textarea{
+		width:100%; 
+		height:79px; 
+		padding:10px 10px; 
+		font-size:12px; 
+		border-color:#dfdede;
+		box-shadow: 0px 0px 4px #E4E4E4;
+	}
+	
+	.tallykit-shortcode-column-inner .contact-form-area .contact-form p input.submit{
+		width: 82px;
+		height: 37px;
+		float: right;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: 13px;
+		background-color: #fa6dab;
+		color: #FFF;
+		border: solid 1px #fa6dab !important;
+		margin-bottom:0px;
+	}
+	.tallykit-shortcode-blog-grid .tk-shortcode-blog-grid-item{
+		padding:16px 16px;
+		background-color:#FFF !important;
+		border:1px solid #efecec;
+	}
+	.tallykit-shortcode-blog-grid .tk-shortcode-blog-grid-item .tk-shortcode-blog-content{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 20px;
+		padding-bottom: 15px;
+	}
+	.tallykit-shortcode-blog-grid .tk-shortcode-blog-grid-item .tk-shortcode-blog-title a{ 
+		font-family: "Open Sans", sans-serif !important;
+		font-weight:bold; 	
+		font-size:14px !important;  
+		color:#44433e;
+	}
+	.tk-shortcode-blog-grid-item .tk-shortcode-blog-text{ font-size:12px; color:#a7a6a2 !important; line-height:20px; }
+	.tk-shortcode-blog-grid-item .tk-shortcode-blog-info{ 
+		padding-top: 5px !important;
+		padding-bottom: 0px !important;
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+		background:none !important;
+		border-top:1px solid #e1e0dc !important;
+		font-size:11px;
+	}
+	.tk-shortcode-blog-grid-item .tk-shortcode-blog-info span.time{ color:#a7a6a2 !important; }
+	.tk-shortcode-blog-grid-item .tk-shortcode-blog-info span.coment_icon{ float:right; margin-left:12px; }
+	.tk-shortcode-blog-grid-item .tk-shortcode-blog-info span.coment_icon i{ opacity: 0.4; }
+	.tk-shortcode-blog-grid-item .tk-shortcode-blog-info span.coment_icon fa{ opacity: 0.4; }
+	.seeblog { text-align:center; display:inline-block !important; margin-right:0px; }
+	
+	.tallykit-blog-timeline-post .tk-timeline-thum .audio-embed.entry-media iframe{ width:100%; height:200px !important; }
+	
+	.formOK,
+	.formNOK,
+	.sending{ display:none; }
+	
+	#contactForm span{ position:relative; display:block; }
+	#contactForm label.error{ display:inline-block; color:#F00; font-size:80%; font-style:italic; position:absolute; right:5px; top:5px; }
+	#contactForm .required.error{ border-color:#F00 !important; }
+    
+    
+    
+    
 
 
 
